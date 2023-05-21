@@ -4,7 +4,7 @@ to find the opportunity to work in a fun and challenging
 working environment that will encourage me to
 improve and learn new necessary skills .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satvikkaurav&label=Profile%20views&color=0e75b6&style=flat" alt="satvikkaurav" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakul-jain14&label=Profile%20views&color=0e75b6&style=flat" alt="nakul-jain14" /> </p>
 
 - 🔭 I’m currently working on my **Bachelor's Degree**
 
